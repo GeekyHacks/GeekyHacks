@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate software developer from Yemen</h3>
 
 
-<img hight="400" alt="Coding" width="400"  src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"/>
+<img hight="480" alt="Coding" width="480"  src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="geekyhacks" /> </p>
 
