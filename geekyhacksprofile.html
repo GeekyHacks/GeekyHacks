@@ -1,12 +1,12 @@
 
 
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="geekyhacks" />
+<img  src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="geekyhacks" />
 
 <h1 align="center">Hi 👋, I'm Abdulla</h1>
 <h3 align="center">A passionate software developer from Yemen</h3>
 
 
-<img width="480" height="480" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1677797437~exp=1677798037~hmac=2dea6d01fac02d70d0137efe86dca2d3dc03538f399f275c87cc93a1a87c113f" alt="geekyhacks" />
+<img  width="auto" height="420" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1677797437~exp=1677798037~hmac=2dea6d01fac02d70d0137efe86dca2d3dc03538f399f275c87cc93a1a87c113f" alt="geekyhacks" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="geekyhacks" /> </p>
 
