@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="geekyhacks" />
 
@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software developer from Yemen</h3>
 
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="geekyhacks" />
+<img src="<a href="https://www.freepik.com/free-photo/rear-view-programmer-working-all-night-long_5698334.htm#query=coding&position=1&from_view=search&track=sph">Image by pressfoto</a> on Freepik" alt="geekyhacks" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="geekyhacks" /> </p>
 
