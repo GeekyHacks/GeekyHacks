@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software developer from Yemen</h3>
 
 
-<img src="https://www.freepik.com/free-vector/hand-coding-concept-illustration_21864184.htm#query=coding&position=4&from_view=search&track=sph">Image by pressfoto</a> on Freepik" alt="geekyhacks" />
+<img src="https://www.freepik.com/free-vector/hand-coding-concept-illustration_21864184.htm#query=coding&position=4&from_view=search&track=sph" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="geekyhacks" /> </p>
 
