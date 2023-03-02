@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Abdulla</h1>
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate software developer from Yemen</h3>
 
 
