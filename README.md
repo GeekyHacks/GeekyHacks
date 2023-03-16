@@ -80,7 +80,7 @@ const Abdullah = {
 
 <div align='left'>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyhacks&show_icons=true&locale=en" alt="geekyhacks" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyhacks&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="geekyhacks" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyhacks&show_icons=true&locale=en&layout=compact" alt="geekyhacks" /></p>
 
@@ -89,3 +89,11 @@ const Abdullah = {
 <p align="center"  > <img  width="130" height="35" src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="geekyhacks"  /> </p>
 
 </div>
+
+<!-- [](https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
+
+---  
+
+![Snake animation](https://github.com/geekyhacks/geekyhacks/blob/output/github-contribution-grid-snake.svg)
