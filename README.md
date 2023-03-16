@@ -71,7 +71,7 @@
 
 ```javascript
 const Abdullah_Nasser = {
-  lookingFor: [Front_end_developer, web - developer, Software_developer],
+  lookingFor: [Front_end_developer, web_developer, Software_developer],
   code: [JavaScript, Dart, Kotlin, HTML, CSS],
   askMeAbout: [Javascript, Dart],
   hobbies: [Strategy_Games, Chess],
