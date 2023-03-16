@@ -92,6 +92,6 @@ const Abdullah_Nasser = {
   <img src="https://profile-counter.glitch.me/geekyhacks/count.svg" />
 </p>
 
-<p align="center" width="50px" height="50px" > <img src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="geekyhacks"  style="width:50px height:50px" /> </p>
+<p align="center"  > <img  width="100" height="100" src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="geekyhacks"  /> </p>
 
 </div>
