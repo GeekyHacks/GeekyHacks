@@ -47,9 +47,9 @@
 
 <!--new profile styling-->
 <h1 align="left"> 
-    <img align="center"  src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Abdullah" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Abdullah" alt="Typing SVG" />
 </h1>
-<img align="center" src="programmer.jpg" width="700"/>
+<p align="center"> <img align="center" src="programmer.jpg" width="700"/></p> 
 
 - 🔭 I am a Full Stack Developer student with a love for JavaScript, & Dart. I play strategy games and read philosophical books in my spare time. Open to new opportunities.s
 - 📫 How to reach me:
@@ -85,8 +85,6 @@ const Abdullah_Nasser = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyhacks&show_icons=true&locale=en&layout=compact" alt="geekyhacks" /></p>
 
 <p color="black" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyhacks&" alt="geekyhacks" /></p>
-
-
 
 <p align="center"  > <img  width="130" height="35" src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="geekyhacks"  /> </p>
 
