@@ -90,9 +90,6 @@ const Abdullah = {
 
 </div>
 
-<!-- [](https://github-readme-stats.vercel.app/api?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
 
 ---  
 
