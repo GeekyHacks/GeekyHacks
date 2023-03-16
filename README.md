@@ -70,7 +70,7 @@
 ### 🚀 A little more about me...
 
 ```javascript
-const Abdullah_Nasser = {
+const Abdullah = {
   lookingFor: [Front_end_developer, Web_developer, Software_developer],
   code: [JavaScript, Dart, Kotlin, Html, Css],
   askMeAbout: [Javascript, Dart],
