@@ -76,7 +76,7 @@ const Abdullah_Nasser = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   code: [JavaScript, Dart, Kotlin, HTML/CSS],
   askMeAbout: [Javascript, Dart],
-  hobbies: [strategy games, Chess]
+  hobbies: [Strategy_Games, Chess]
 }
 ```
 
