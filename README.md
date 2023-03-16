@@ -86,6 +86,12 @@ const Abdullah_Nasser = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyhacks&" alt="geekyhacks" /></p>
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/geekyhacks/count.svg" />
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="geekyhacks" /> </p>
 
 </div>
