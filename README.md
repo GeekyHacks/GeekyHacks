@@ -84,7 +84,7 @@ const Abdullah_Nasser = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyhacks&show_icons=true&locale=en&layout=compact" alt="geekyhacks" /></p>
 
-<p><img align="center" background-color="black" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyhacks&" alt="geekyhacks" /></p>
+<p><img align="center" color="black" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyhacks&" alt="geekyhacks" /></p>
 
 
 
