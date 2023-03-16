@@ -47,7 +47,7 @@
 
 <!--new profile styling-->
 <h1 align="left"> 
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Abdullah Nasser" alt="Typing SVG" />
+    <img align="center" width="800" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Abdullah Nasser" alt="Typing SVG" />
 </h1>
 <img src="programmer.jpg" width="700"/>
 
