@@ -73,13 +73,13 @@
 
 ```javascript
 const Abdullah_Nasser = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [JavaScript, Dart, Kotlin, HTML/CSS],
+  lookingFor:[ "Front-end developer", "Full-stack web developer" ] ,
+  code: [JavaScript, Dart, Kotlin, HTML, CSS],
   askMeAbout: [Javascript, Dart],
   hobbies: [Strategy_Games, Chess]
 }
 ```
-
+ss
 
 <div align='left'>
   
