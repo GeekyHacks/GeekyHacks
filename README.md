@@ -49,7 +49,7 @@
 <h1 align="left"> 
     <img align="center"  src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Abdullah" alt="Typing SVG" />
 </h1>
-<img src="programmer.jpg" width="700"/>
+<img align="center" src="programmer.jpg" width="700"/>
 
 - 🔭 I am a Full Stack Developer student with a love for JavaScript, & Dart. I play strategy games and read philosophical books in my spare time. Open to new opportunities.s
 - 📫 How to reach me:
