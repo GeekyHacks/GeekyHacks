@@ -5,7 +5,8 @@
 
 - 🔭 I am a Full Stack Developer student with a love for JavaScript, & Dart. I play strategy games and read philosophical books in my spare time. Open to new opportunities.
 - 📫 How to reach me:
-<a href="https://codepen.io/geekyhacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekyhacks" height="30" width="40" /></a>
+
+- <a href="https://codepen.io/geekyhacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekyhacks" height="30" width="40" /></a>
 <a href="https://twitter.com/geekydart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekydart" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah-nasser-711625268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-nasser-711625268" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21147339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21147339" height="30" width="40" /></a>
