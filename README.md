@@ -4,7 +4,8 @@
 </h1>
 <p align="center"> <img align="center" src="programmer.jpg" width="700"/></p>
 
-- 🔭 I am a Full-Stack Developer with a love for JavaScript, & Dart. I play strategy games and read philosophical books in my spare time. Open to new opportunities.s
+- 🔭 I'm a Full Stack Developer specialized in web-development.
+- 🔭 Creative coder and aspiring philosopher. Building solutions to help make the world a better place. Always looking for new challenges!
 - 📫 How to reach me:
 - <a href="https://codepen.io/geekyhacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekyhacks" height="30" width="40" /></a>
 <a href="https://twitter.com/geekydart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekydart" height="30" width="40" /></a>
@@ -25,8 +26,8 @@
 ```javascript
 const Abdullah = {
   lookingFor: [Front_end_developer, Web_developer, Software_developer],
-  code: [JavaScript, Dart, Kotlin, Html, Css],
-  askMeAbout: [Javascript, Dart],
+  code: [JavaScript, Dart, Kotlin, Html, Css, Sass, Jest, webpack],
+  askMeAbout: [Javascript, sass, css],
   hobbies: [Strategy_Games, Chess],
 };
 ```
