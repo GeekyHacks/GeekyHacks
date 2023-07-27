@@ -3,9 +3,13 @@
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Abdullah" alt="Typing SVG" />
 </h1>
 <p align="center"> <img align="center" src="welcometomyGIthub.png" width="700"/></p>
-
-- 🔭 I'm a Full Stack Developer specialized in web-development.
-- 🔭 Creative coder and aspiring philosopher. Building solutions to help make the world a better place. Always looking for new challenges!
+Full Stack Developer
+--------------------
+My name is Abdullah Nasser, I'm a passionate programmer who love building solutions to make life much easier. I started programming with Dart and flutter. I'm currently learning Full Stack Development at Microverse, where I'm learning Html, Css, Sass, JS, React, and Ruby.
+* 🌍  I'm based in Sana'a, Yemen
+* 🖥️  See my portfolio at [geekyhacks.github.io](https://geekyhacks.github.io/My-Personal-Portfolio/)
+* ✉️  You can contact me at [geekyhacks22@gmail.com](mailto:geekyhacks22@gmail.com)
+* 🤝  I'm available for hire and always looking for new challenges!
 - 📫 How to reach me:
 <a href="https://codepen.io/geekyhacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekyhacks" height="30" width="40" /></a>
 <a href="https://twitter.com/geekydart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekydart" height="30" width="40" /></a>
