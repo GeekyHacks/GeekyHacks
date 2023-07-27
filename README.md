@@ -2,7 +2,7 @@
 <h1 align="left"> 
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Abdullah" alt="Typing SVG" />
 </h1>
-<p align="center"> <img align="center" src="programmer.jpg" width="700"/></p>
+<p align="center"> <img align="center" src="welcometomyGIthub.png" width="700"/></p>
 
 - 🔭 I'm a Full Stack Developer specialized in web-development.
 - 🔭 Creative coder and aspiring philosopher. Building solutions to help make the world a better place. Always looking for new challenges!
