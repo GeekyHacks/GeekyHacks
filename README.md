@@ -4,7 +4,7 @@
 </h1>
 <p align="center"> <img align="center" src="programmer.jpg" width="700"/></p>
 
-- 🔭 I am a Full Stack Developer student with a love for JavaScript, & Dart. I play strategy games and read philosophical books in my spare time. Open to new opportunities.s
+- 🔭 I am a Full-Stack Developer with a love for JavaScript, & Dart. I play strategy games and read philosophical books in my spare time. Open to new opportunities.s
 - 📫 How to reach me:
 - <a href="https://codepen.io/geekyhacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekyhacks" height="30" width="40" /></a>
 <a href="https://twitter.com/geekydart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekydart" height="30" width="40" /></a>
