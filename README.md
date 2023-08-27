@@ -32,7 +32,7 @@ My name is Abdullah Nasser, I'm a passionate programmer who love building soluti
 > > [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) <br/>
 > > [React.js](https://ru.legacy.reactjs.org/)
 >
-> Besides programming languages, I work in [Wordpress](https://wordpress.com/)
+> Besides programming languages, I'm learning [Wordpress](https://wordpress.com/), and making [newswebsite](https://github.com/GeekyHacks/NewsWebsite)
 
 
 
