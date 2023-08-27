@@ -25,8 +25,8 @@ My name is Abdullah Nasser, I'm a passionate programmer who love building soluti
 
 
 > I’m currently working on:
-> > [Math Magicians SPA](https://github.com/Zilola-Nazarova/math-magicians/) <br/>
-> > [Bookstore SPA](https://github.com/Zilola-Nazarova/bookstore) <br/>
+> > [Math Magicians SPA](https://github.com/GeekyHacks/MyGeekyCalculator) <br/>
+> > [Bookstore SPA](https://github.com/GeekyHacks/BookStore_React) <br/>
 > 
 > I’m currently learning
 > > [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) <br/>
