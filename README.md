@@ -1,4 +1,4 @@
-<!-- Full Stack Developer | JavaScript | React | Ruby | Web Developer | Open to Hire -->
+<!-- Full Stack Developer | JavaScript | React | Ruby | Web Developer | Open to Hiring -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=600&lines=Hi+there%2C+%F0%9F%91%8B+I%27m+Abdullah;Full+Stack+Developer;JavaScript+%7C+React+%7C+Ruby;Open+to+New+Opportunities!" alt="Typing SVG" />
 </h1>
@@ -84,7 +84,7 @@ My name is **Abdullah Nasser**, a passionate **Full Stack Developer** who loves 
 | 🗂️ [My Personal Portfolio](https://github.com/GeekyHacks/My-Personal-Portfolio) | Portfolio site showcasing my work and journey as a Full Stack Developer | CSS, HTML |
 | 📦 [WebPack Template](https://github.com/GeekyHacks/WebPackTemplate) | Reusable Webpack bundling template for modern JavaScript projects | Sass, Webpack |
 | 📚 [Awesome Book](https://github.com/GeekyHacks/AwesomeBook) | Bookstore app built with HTML, CSS, and JavaScript | JavaScript |
-| ✅ [To-Do List](https://github.com/GeekyHacks/ToDoList) | Feature-rich to-do list app — add, remove, edit & mark items | JavaScript, Sass |
+| ✅ [To-Do List](https://github.com/GeekyHacks/ToDoList) | Feature-rich to-do list app - add, remove, edit & mark items | JavaScript, Sass |
 | 🧪 [Testing Practice](https://github.com/GeekyHacks/TestingPractice) | Unit testing with Jest using TDD and the AAA pattern | JavaScript, Jest |
 | 🏆 [Leaderboard](https://github.com/GeekyHacks/GeekyLeaderboard) | Leaderboard app using Webpack and a REST API | Sass, Webpack |
 
